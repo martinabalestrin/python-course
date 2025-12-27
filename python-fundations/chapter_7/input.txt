@@ -1,0 +1,7 @@
+OOP - Object Oriented Programmin
+IDE - Integrated Development Enviroment
+UX - User Experience
+JSON - JavaScript Object Notation
+ML - Machine Learning
+FIFO - First In First Out
+SaaS - Software as a Service
